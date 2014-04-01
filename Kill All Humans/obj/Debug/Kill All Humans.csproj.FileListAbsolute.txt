@@ -1,0 +1,26 @@
+c:\users\dominic.nahous\documents\visual studio 2013\Projects\Kill All Humans\Kill All Humans\bin\Debug\Kill All Humans.exe.config
+c:\users\dominic.nahous\documents\visual studio 2013\Projects\Kill All Humans\Kill All Humans\bin\Debug\Kill All Humans.exe
+c:\users\dominic.nahous\documents\visual studio 2013\Projects\Kill All Humans\Kill All Humans\bin\Debug\Kill All Humans.pdb
+c:\users\dominic.nahous\documents\visual studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\Kill All Humans.csprojResolveAssemblyReference.cache
+c:\users\dominic.nahous\documents\visual studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\MainWindow.baml
+c:\users\dominic.nahous\documents\visual studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\MainWindow.g.cs
+c:\users\dominic.nahous\documents\visual studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\App.g.cs
+c:\users\dominic.nahous\documents\visual studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\Kill All Humans_MarkupCompile.cache
+c:\users\dominic.nahous\documents\visual studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\Kill All Humans.g.resources
+c:\users\dominic.nahous\documents\visual studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\Kill_All_Humans.Properties.Resources.resources
+c:\users\dominic.nahous\documents\visual studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\Kill All Humans.csproj.GenerateResource.Cache
+c:\users\dominic.nahous\documents\visual studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\Kill All Humans.exe
+c:\users\dominic.nahous\documents\visual studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\Kill All Humans.pdb
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\Kill All Humans\Kill All Humans\bin\Debug\Kill All Humans.exe.config
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\Kill All Humans.exe
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\Kill All Humans.pdb
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\Kill All Humans.csprojResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\MainWindow.baml
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\MainWindow.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\App.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\Kill All Humans_MarkupCompile.cache
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\Kill All Humans.g.resources
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\Kill_All_Humans.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\Kill All Humans\Kill All Humans\obj\Debug\Kill All Humans.csproj.GenerateResource.Cache
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\Kill All Humans\Kill All Humans\bin\Debug\Kill All Humans.exe
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\Kill All Humans\Kill All Humans\bin\Debug\Kill All Humans.pdb

@@ -40,7 +40,7 @@
             <TextBlock x:Name="gameOverText" TextWrapping="Wrap" FontFamily="Arial" FontSize="100" FontWeight="Bold" 
                        FontStyle="Italic" HorizontalAlignment="Center" VerticalAlignment="Center" Canvas.Left="234" Canvas.Top="257">
                 <Run Text="Ga"/><Run Text="me Over"/></TextBlock>
-            <Rectangle x:Name="target" Height="100" Width="100" Canvas.Left="97" Canvas.Top="307">
+            <Rectangle x:Name="target" Height="100" Width="100" Canvas.Left="97" Canvas.Top="307" MouseEnter="target_MouseEnter">
                 <Rectangle.Fill>
                     <RadialGradientBrush>
                         <GradientStop Color="Black"/>

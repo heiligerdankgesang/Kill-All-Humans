@@ -5,7 +5,27 @@
     <Window.Resources>
         <ControlTemplate x:Key="EnemyTemplate" TargetType="{x:Type ContentControl}">
             <Grid>
-                <Ellipse Fill="#FFC31DE8" Height="100" Stroke="Black" Width="100"/>
+                <Ellipse Fill="Gray" Height="100" Stroke="Black" Width="75" Margin="9,0,16,0"/>
+                <Ellipse Fill="Black" HorizontalAlignment="Left" Height="35" Margin="49,21,0,0" Stroke="Black" VerticalAlignment="Top" Width="25" RenderTransformOrigin="0.5,0.5">
+                    <Ellipse.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform AngleX="-10"/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+                <Ellipse Fill="Black" HorizontalAlignment="Left" Height="35" Margin="20,21,0,0" Stroke="Black" VerticalAlignment="Top" Width="25" RenderTransformOrigin="0.5,0.5">
+                    <Ellipse.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform AngleX="10"/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
             </Grid>
         </ControlTemplate>
     </Window.Resources>
@@ -33,13 +53,9 @@
                 <Ellipse Fill="White" Height="10" Width="10"/>
                 <Rectangle Fill="White" Height="25" Width="10"/>
             </StackPanel>
-            <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center" Canvas.Left="862" Canvas.Top="533">
-                <TextBlock TextWrapping="Wrap" Text="Avoid These" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White"/>
-                <ContentControl Content="ContentControl" Template="{DynamicResource EnemyTemplate}"/>
-            </StackPanel>
+
             <TextBlock x:Name="gameOverText" TextWrapping="Wrap" FontFamily="Arial" FontSize="100" FontWeight="Bold" 
-                       FontStyle="Italic" HorizontalAlignment="Center" VerticalAlignment="Center" Canvas.Left="234" Canvas.Top="257">
-                <Run Text="Ga"/><Run Text="me Over"/></TextBlock>
+                       FontStyle="Italic" HorizontalAlignment="Center" VerticalAlignment="Center" Canvas.Left="234" Canvas.Top="257" Text="Game Over"/>
             <Rectangle x:Name="target" Height="100" Width="100" Canvas.Left="97" Canvas.Top="307" MouseEnter="target_MouseEnter">
                 <Rectangle.Fill>
                     <RadialGradientBrush>
@@ -50,5 +66,8 @@
             </Rectangle>
         </Canvas>
 
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center" Canvas.Left="862" Canvas.Top="533"/>
+        <TextBlock TextWrapping="Wrap" Text="Avoid These" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" Grid.Column="2" Margin="30,8,33,118" Grid.Row="1"/>
+        <ContentControl Content="ContentControl" Template="{DynamicResource EnemyTemplate}" Grid.Column="2" Margin="28,32,32,18" Grid.Row="1"/>
     </Grid>
 </Window>
